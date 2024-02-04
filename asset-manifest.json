@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codescure/static/css/main.aa53241f.css",
+    "main.js": "/codescure/static/js/main.22e2016d.js",
+    "index.html": "/codescure/index.html",
+    "main.aa53241f.css.map": "/codescure/static/css/main.aa53241f.css.map",
+    "main.22e2016d.js.map": "/codescure/static/js/main.22e2016d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa53241f.css",
+    "static/js/main.22e2016d.js"
+  ]
+}
